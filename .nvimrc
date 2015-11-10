@@ -78,6 +78,11 @@ set nobackup
 set nowritebackup
 set noswapfile
 
+" 开启光亮光标行
+set cursorline
+" 开启光亮光标列
+set cursorcolumn
+
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_theme = 'molokai'

@@ -1,6 +1,6 @@
 #
 vim-config
 
-vim配置: `.vimrc`
+vim配置: vimrc`
 
-neovim配置: `nvim/init.vim` (放在`~/.config`目录下)
+neovim配置: 放在`~/.config/nvim/init.vim`目录下
